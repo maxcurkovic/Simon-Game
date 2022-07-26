@@ -7,7 +7,13 @@ Below are the rules of the game, paraphrased from: https://www.memozor.com/simon
 In each round a new key is added to the pattern and the game becomes increasingly difficult.
 
 1- At the beginning of the game, one of the 4 keys lights up randomly producing simultaneously a sound associated to the key.
+
 2- The player has to press the same key.
+
 3- Next, Simon will light up another color. The user must repeat the same pattern: first color, THEN second color.
+
 4- More colors are added afterwards... in each round a new key is added to the series and the game becomes all the more difficult as the player's memory is put to the test.
+
 5- If the player doesn't make any mistake, the game goes on, so it is an endless game!"
+
+To play the game, follow this link: https://maxcurkovic.github.io/Simon-Game/
