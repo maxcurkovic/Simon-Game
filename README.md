@@ -1,4 +1,4 @@
-# Max Curkovic's Simon Game
+# Max Curkovic's "Simon" Game Recreatuib
 
 This website serves as a recreation of the classic memory game "Simon", written in JavaScript, HTML, and CSS code. 
 Below are the rules of the game, paraphrased from: https://www.memozor.com/simon-games/simon-game#simon_rules
